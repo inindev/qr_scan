@@ -1,0 +1,2 @@
+Decoded text: otpauth://totp/acme:testuser?secret=MZXW6YTBOJXXEABC&issuer=acme&algorithm=SHA1&digits=6&period=30
+Seed: MZXW6YTBOJXXEABC
